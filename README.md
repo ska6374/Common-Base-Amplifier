@@ -8,14 +8,44 @@ A common-gate amplifier is a single-stage field-effect transistor (FET) amplifie
 4. In-phase input and output signals: The input and output signals of a common gate amplifier are in phase. <BR>
 <BR>
 
-<h2>II. Applications</h2>
+<h2>II. Applications :</h2>
 <br>
 In electronics, a common-gate amplifier is one of three basic single-stage field-effect transistor (FET) amplifier topologies, typically used as a current buffer or voltage amplifier. 
 <br>
 <br>
-<h2>II. Tools Used</h2>
-Schematic : Cadence Virtuoso - Schematic XL
-Simulation: Cadence Virtuoso - ADE L
-Layout: Cadence Virtuoso - Layout XL
-Technology: gpdk45nm
+<h2>III. Tools Used :</h2>
+Schematic : Cadence Virtuoso - Schematic XL<BR>
+Simulation: Cadence Virtuoso - ADE L<BR>
+Layout: Cadence Virtuoso - Layout XL<BR>
+Technology: gpdk45nm<BR>
+<BR>
+<H2>IV. Schematic :</H2>
+<BR>
+
+![Screenshot](https://github.com/user-attachments/assets/07159712-eb41-4fa0-81c2-37d83999d9d4)
+<BR>
+<BR>
+<H2>V. Symbol Genarate :</H2>
+<br>
+
+![Screenshot-2](https://github.com/user-attachments/assets/7a0ef7ac-4964-4755-ad6a-e56864519940)
+<br>
+<br>
+<h2>V. Output Waveform :</h2>
+<br>
+
+![Screenshot-5](https://github.com/user-attachments/assets/6b1ce7fe-b20a-4c87-8c9b-243305bdf3e1)
+<br>
+<br>
+![Screenshot-6](https://github.com/user-attachments/assets/7ced7db9-0d97-42a8-9171-27b9f923fd80)
+<br>
+<br>
+<h2>VI. Layout</h2>
+<BR>
+
+![Screenshot-7](https://github.com/user-attachments/assets/adea373b-e897-4bc5-9e15-c64b079dd169)
+
+
+
+
 
