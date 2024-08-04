@@ -1,4 +1,4 @@
-# Common gate amplifier
+# Common Gate Amplifier
 <br>
 A common-gate amplifier is a single-stage field-effect transistor (FET) amplifier topology that's used as a voltage amplifier or current buffer. It's one of three basic FET amplifier topologies. <BR><BR>
 <h2>I. A common gate amplifier has several advantages, including :</h2><BR>
