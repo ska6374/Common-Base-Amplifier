@@ -40,7 +40,7 @@ Technology: gpdk45nm<BR>
 ![Screenshot-6](https://github.com/user-attachments/assets/7ced7db9-0d97-42a8-9171-27b9f923fd80)
 <br>
 <br>
-<h2>VII. Layout</h2>
+<h2>VII. Layout :</h2>
 <BR>
 
 ![Screenshot-7](https://github.com/user-attachments/assets/adea373b-e897-4bc5-9e15-c64b079dd169)
