@@ -31,7 +31,7 @@ Technology: gpdk45nm<BR>
 ![Screenshot-2](https://github.com/user-attachments/assets/7a0ef7ac-4964-4755-ad6a-e56864519940)
 <br>
 <br>
-<h2>V. Output Waveform :</h2>
+<h2>VI. Output Waveform :</h2>
 <br>
 
 ![Screenshot-5](https://github.com/user-attachments/assets/6b1ce7fe-b20a-4c87-8c9b-243305bdf3e1)
@@ -40,7 +40,7 @@ Technology: gpdk45nm<BR>
 ![Screenshot-6](https://github.com/user-attachments/assets/7ced7db9-0d97-42a8-9171-27b9f923fd80)
 <br>
 <br>
-<h2>VI. Layout</h2>
+<h2>VII. Layout</h2>
 <BR>
 
 ![Screenshot-7](https://github.com/user-attachments/assets/adea373b-e897-4bc5-9e15-c64b079dd169)
