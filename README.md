@@ -1,11 +1,21 @@
 # Common Base Amplifier
 <br>
-A common-base amplifier is a single-stage bipolar junction transistor (BJT) amplifier topology that's commonly used as a voltage amplifier or current buffer. It's also known as a grounded base amplifier. <BR><BR>
-<h2>I. A common base amplifier has several advantages, including :</h2><BR>
-1. High isolation: The output has little feedback to the input, which leads to high stability.<BR>
-2. Low input impedance: This can be an advantage when the source has a low impedance and good power transfer is needed into the amplifier.<BR>
-3. Current gain of unity: This makes the common base amplifier useful as a current buffer.<BR>
-4. Non-inverting voltage gain: The input and output phases are identical.<BR>
-5. Performance at higher frequencies: Common base amplifiers perform well at higher frequencies, which is useful for some applications. <BR>
+A common-gate amplifier is a single-stage field-effect transistor (FET) amplifier topology that's used as a voltage amplifier or current buffer. It's one of three basic FET amplifier topologies. <BR><BR>
+<h2>I. A common Gate amplifier has several advantages, including :</h2><BR>
+1. Low output impedance: Common gate amplifiers have a high input impedance and a low output impedance, making them useful as buffers.<BR>
+2. High input impedance: When used with a JFET, a common gate amplifier can have a high input impedance, low noise levels, and a wide voltage input range.<BR>
+3. Unity current gain: Common gate amplifiers have unity voltage gain, but high current gain.<BR>
+4. In-phase input and output signals: The input and output signals of a common gate amplifier are in phase. <BR>
 <BR>
+
+<h2>II. Applications</h2>
+<br>
+In electronics, a common-gate amplifier is one of three basic single-stage field-effect transistor (FET) amplifier topologies, typically used as a current buffer or voltage amplifier. 
+<br>
+<br>
+<h2>II. Tools Used</h2>
+Schematic : Cadence Virtuoso - Schematic XL
+Simulation: Cadence Virtuoso - ADE L
+Layout: Cadence Virtuoso - Layout XL
+Technology: gpdk45nm
 
